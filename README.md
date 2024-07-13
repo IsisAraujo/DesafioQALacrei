@@ -45,6 +45,8 @@ Este relatório abrange os seguintes fluxos de teste:
 7. Digitar o código recebido no campo correspondente.
 8. Clicar no botão "Confirmar" para completar o processo de confirmação.
    - Bug confirmado na etapa 8.
+   - <img src="https://github.com/IsisAraujo/DesafioQALacrei/blob/master/videos/bug_sms.png" alt="Imagem do Bug">
+
 
 ### 5. Edição do Perfil da Pessoa Usuária
 1. Acessar a página de perfil da pessoa usuária.
