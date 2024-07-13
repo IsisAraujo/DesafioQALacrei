@@ -1,0 +1,50 @@
+Email Subject: 
+Email Sender: suporte.staging@lacreisaude.com.br
+Email Body:
+<div style="border-collapse:collapse;margin:20px auto 10px;padding:0;height:100%;width:auto;">
+<div style="border-collapse:collapse;padding:32px 32px 0 32px;width:100%;max-width:660px;margin:0 auto;clear:both;">
+<a href="https://lacreisaude.com.br">Lacrei
+ Saúde </a>
+<div style="border-collapse:collapse;padding:32px;max-width:660px;margin:0 auto;clear:both;">
+<div style="border-collapse:collapse;padding:0;font-weight:700;font-size:24px;line-height:38px;color:#1b2653;">
+<h1 style="margin:0;font-size:24px;">Olá!</h1>
+</div>
+<div style="border-collapse:collapse;color:#2a3e52;">
+<p style="margin-top:16px;margin-bottom:0;">Recebemos a solicitação de redefinição da sua senha na Lacrei Saúde.
+</p>
+<p style="margin-top:8px;margin-bottom:0;">Para criar uma nova senha, clique em <strong>
+Redefinir senha.</strong> </p>
+</div>
+<div style="border-collapse:collapse;font-weight:700;text-align:center;margin-top:48px;margin-bottom:48px;">
+<a href="https://paciente-staging.lacreisaude.com.br/redefinicao-de-senha/confirmar/?uid=MjdiMTEzYWQ&token=ca3pj8-8938be2e8a4adfb6c5be86a41ce1def4"><span style="padding:10px 0;text-align:center;margin:0 auto;">Redefinir
+ senha </span></a></div>
+<div style="border-collapse:collapse;padding:0 0 20px;color:#2a3e52;">
+<p>Para redefinição, basta clicar no botão acima ou copiar o link a seguir no seu navegador:
+<a href="https://paciente-staging.lacreisaude.com.br/redefinicao-de-senha/confirmar/?uid=MjdiMTEzYWQ&token=ca3pj8-8938be2e8a4adfb6c5be86a41ce1def4">
+https://paciente-staging.lacreisaude.com.br/redefinicao-de-senha/confirmar/?uid=MjdiMTEzYWQ&amp;token=ca3pj8-8938be2e8a4adfb6c5be86a41ce1def4
+</a></p>
+</div>
+<div style="border-collapse:collapse;color:#2a3e52;margin-bottom:48px;border:1px solid #CFCFCF;padding:24px 24px;">
+<div style="border-collapse:collapse;padding:0;width:100%;font-size:16px;">
+<p style="margin-bottom:0;margin-top:0;">Esse link <strong>expira em 24 horas.</strong><br>
+Caso tenha visto esse e-mail após este prazo, solicite um novo link no <br>
+Portal Lacrei Saúde. </p>
+<div style="margin-top:16px;"><a href="#">Solicitar novo envio</a>
+</div>
+</div>
+</div>
+<div style="border-collapse:collapse;color:#2a3e52;">
+<p style="margin-top:0;margin-bottom:8px;">Se você não solicitou uma redefinição de senha, ou não se lembra dela, ignore esta mensagem e nada será alterado.
+</p>
+<p style="margin-top:24px;margin-bottom:0;">Atenciosamente, <br>
+Equipe Lacrei Saúde </p>
+</div>
+</div>
+</div>
+<div style="border-collapse:collapse;padding:0;max-width:660px;margin:0 auto;clear:both;margin-top:32px;margin-bottom:64px;font-size:24px;">
+<a href="https://facebook.com/lacrei.saude"><img alt="Facebook" src="/res.php?r=1&amp;n=img&amp;q=https%3A%2F%2Fapi-static-staging.lacreisaude.com.br%2Fimages%2Ffacebook.svg">
+</a><a href="https://instagram.com/lacrei.saude"><img alt="instagram" src="/res.php?r=1&amp;n=img&amp;q=https%3A%2F%2Fapi-static-staging.lacreisaude.com.br%2Fimages%2Finstagram.svg">
+</a><a href="https://linkedin.com/company/lacrei-saude/"><img alt="linkedin" src="/res.php?r=1&amp;n=img&amp;q=https%3A%2F%2Fapi-static-staging.lacreisaude.com.br%2Fimages%2Flinkedin.svg">
+</a><a href="mailto:suporte@lacreisaude.com.br"><img alt="e-mail" src="/res.php?r=1&amp;n=img&amp;q=https%3A%2F%2Fapi-static-staging.lacreisaude.com.br%2Fimages%2Fe-mail.svg">
+</a></div>
+</div>
